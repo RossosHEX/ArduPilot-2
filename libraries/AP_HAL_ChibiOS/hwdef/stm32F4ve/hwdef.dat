@@ -1,6 +1,6 @@
 # hw definition file for processing by chibios_pins.py
 # for stm32f4ve - stm32f407vet6 mcu
-# with on board SPI flash chip, microSD card, and microUSB connector
+# with on board SPI flash chip, microSD card, and miniUSB connector
 
 # MCU class and specific type
 MCU STM32F4xx STM32F407xx
